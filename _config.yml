@@ -26,13 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: bio-photo.jpg
-  bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
-  email: michael@mademistakes.com
-  disqus-shortname: minimalmistakes
+  name: Antonios Gkogkakis
+  bio: "Software engineer @Groupon, aspiting photographer, fitness enthusiast"
+  email:
+  disqus-shortname:
   twitter: gkogkaka
-  github: agkogkakis
+  github: 
   linkedin:
   
 
